@@ -23,4 +23,8 @@ class WelcomeController < ApplicationController
   def johnny
 
   end
+
+  def david
+  end
+
 end
